@@ -1,0 +1,109 @@
+scientific_name	spanish_name	category_minagri
+Cinclodes aricomae	churrete real	CR
+Cinclodes palliatus	churrete de vientre blanco	CR
+Crax globulosa	paujil carunculado	CR
+Grallaria ridgelyi	tororoi jocotoco	CR
+Laterallus jamaicencis tuerosi	gallineta negra	CR
+Pauxi koepckeae	paujil del Sira	CR
+Penelope albipennis	pava de ala blanca	CR
+Phoebastria irrorata	albatros de las Galapagos	CR
+Podiceps taczanowskii	zambullidor de Junin	CR
+Polioptila clementsi	perlita de Iquitos	CR
+Pterodroma phaeopygia	petrel de las Galapagos	CR
+Rhea pennata	suri	CR
+Taphrolesbia griseiventris	cometa de vientre gris	CR
+Thalassarche eremita	albatros de Chatham	CR
+Sterna hirundinacea	gaviotin sudamericano	CR
+Anairetes alpinus	torito de pecho cenizo	EN
+Atlapetes melanopsis	matorralero de anteojos negros	EN
+Aulacorhynchus huallagae	tucancillo de Ceja Amarilla	EN
+Brotogeris pyrrhoptera	perico de mejilla gris	EN
+Euchrepomis sharpei	hormiguerito de lomo amarillo	EN
+Grallaricula ochraceifrons	tororoi de frente ocracea	EN
+Herpsilochmus parkeri	hormiguerito de garganta ceniza	EN
+Leptasthenura xenothorax	tijeral de ceja blanca	EN
+Lipaugus uropygialis	piha ala de cimatarra	EN
+Loddigesia mirabilis	colibri cola de espatula	EN
+Netta erythrophthalma	pato morado	EN
+Pachyramphus spodiurus	cabezon pizarroso	EN
+Pelecanus thagus	pelicano Peruano	EN
+Phalacrocorax gaimardi	cormoran de pata roja	EN
+Phytotoma raimondii	cortarrama Peruana	EN
+Poospiza alticola	monterita de cola simple	EN
+Poospiza rubecula	monterita de pecho rufo	EN
+Rollandia microptera	zambullidor del Titicaca	EN
+Spheniscus humboldti	pinguino de Humboldt	EN
+Sternula lorata	gaviotin Peruano	EN
+Sula granti	piquero de Nazca	EN
+Sula variegata	piquero Peruano	EN
+Synallaxis tithys	cola espina de cabeza negruzca	EN
+Synallaxis zimmeri	cola-espina de vientre rojizo	EN
+Thalassarche melanophrys	albatros de ceja negra	EN
+Thripophaga berlepschi	cola-suave de manto rojizo	EN
+Vultur gryphus	condor andino	EN
+Xenoglaux loweryi	lechucita bigotona	EN
+Amazona festiva	loro de lomo rojo	NT
+Andigena hypoglauca	tucan andino de pecho gris	NT
+Ara chloropterus	guacamayo rojo verde	NT
+Ara macao	guacamayo escarlata	NT
+Aratinga erythrogenys	cotorra de cabeza roja	NT
+Asthenes urubambensis	canastero de frente listada	NT
+Atlapetes rufi genis	matorralero de oreja rufa	NT
+Cacicus koepckeae	cacique de Koepcke	NT
+Campephilus gayaquilensis	carpintero Guayaquileno	NT
+Campylopterus villaviscensio	ala de sable del Napo	NT
+Conothraupis speculigera	tangara negra y blanca	NT
+Crypturellus transfasciatus	perdiz de ceja palida	NT
+Chaetocercus bombus	estrellita chica	NT
+Deroptyus accipitrinus	loro de abanico	NT
+Falco deiroleucus	halcon de pecho naranja	NT
+Falco peregrinus	halcon peregrino	NT
+Formicarius rufi frons	gallito hormiguero de frente rufa	NT
+Fulica gigantea	gallareta gigante	NT
+Gallinago imperialis	becasina imperial	NT
+Grallaria blakei	tororoi castano	NT
+Grallaria carrikeri	tororoi de pico palido	NT
+Grallaria eludens	tororoi evasivo	NT
+Grallaricula peruviana	tororoi Peruano	NT
+Hemitriccus cinnamomeipectus	tirano-todi de pecho canela	NT
+Hemitriccus minimus	tirano todi de Zimmer	NT
+Hemitriccus rufi gularis	tirano-todi de garganta anteada	NT
+Henicorhina leucoptera	cucarachero-montes de ala barrada	NT
+Herpsilochmus gentryi	hormiguerito antiguo	NT
+Jabiru mycteria	jabiru	NT
+Leptasthenura yanacensis	hijeral leonado	NT
+Macronectes giganteus	petrel gigante sureno	NT
+Macronectes halli	petrel gigante norteno	NT
+Megascops marshalli	lechuza de bosque de neblina	NT
+Melanopareia maranonica	pecho de luna del Maranon	NT
+Metallura odomae	colibri de neblina	NT
+Mitu tuberosum	paujil comun	NT
+Mycteria americana	ciguena Gaban	NT
+Myrmoborus melanurus	hormiguero de cola negra	NT
+Nannopsittaca dachilleae	periquito amazonico	NT
+Nephelomyias lintoni	mosquerito de franja naranja	NT
+Oreomanes fraseri	pico de cono gigante	NT
+Phaethornis koepckeae	ermitano de Koepcke	NT
+Phalacrocorax bougainvillii	cormoran Guanay	NT
+Phegornis mitchellii	chorlo cordillerano	NT
+Phlogophilus hemileucurus	colibri colipinto Ecuatoriano	NT
+Phlogophilus harterti	colibri colipinto Peruano	NT
+Phoenicopterus chilensis	fl amenco Chileno	NT
+Pionus chalcopterus	loro de ala bronceada	NT
+Pipile cumanensis	pava de garganta azul	NT
+Pipreola chlorolepidota	frutero garganta de fuego	NT
+Platalea ajaja	espatula rosada	NT
+Podiceps occipitalis	zambullidor Plateado	NT
+Poecilotriccus luluae	espatulilla de Johnson	NT
+Procellaria cinerea	petrel gris	NT
+Pteroglossus beauharnaesii	arasari encrespado	NT
+Ramphastos ambiguus	tucan de mandibula negra	NT
+Ramphastos toco	tucan toco	NT
+Saltator cinctus	saltador enmascarado	NT
+Synallaxis cherriei	cola-espina de garganta castana	NT
+Tachycineta stolzmanni	golondrina de Tumbes	NT
+Tangara phillipsi	tangara del Sira	NT
+Thalassarche bulleri	albatros de Buller	NT
+Tinamotis pentlandii	perdiz de la puna	NT
+Tumbezia salvini	pitajo de Tumbes	NT
+Xenerpestes singularis	cola-gris ecuatorial	NT
