@@ -4,6 +4,7 @@ Este repositorio contiene un script automatizado para procesar datos ornitológi
 
 ##  Contenido del repositorio
 
+- Descargar el archivo zip
 - `script_aves.R`: Script principal.
 - `/datos`: Carpeta para colocar el archivo CSV de entrada (`aves_ejemplo.csv`).
 - `/Private`: Funciones auxiliares.
